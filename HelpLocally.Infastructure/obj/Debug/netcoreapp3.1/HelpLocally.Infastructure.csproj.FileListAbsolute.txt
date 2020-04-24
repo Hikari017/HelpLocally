@@ -1,0 +1,13 @@
+/Users/justynaluszczak/RiderProjects/HelpLocally/HelpLocally.Infastructure/bin/Debug/netcoreapp3.1/HelpLocally.Infastructure.deps.json
+/Users/justynaluszczak/RiderProjects/HelpLocally/HelpLocally.Infastructure/bin/Debug/netcoreapp3.1/HelpLocally.Infastructure.runtimeconfig.json
+/Users/justynaluszczak/RiderProjects/HelpLocally/HelpLocally.Infastructure/bin/Debug/netcoreapp3.1/HelpLocally.Infastructure.runtimeconfig.dev.json
+/Users/justynaluszczak/RiderProjects/HelpLocally/HelpLocally.Infastructure/bin/Debug/netcoreapp3.1/HelpLocally.Infastructure.dll
+/Users/justynaluszczak/RiderProjects/HelpLocally/HelpLocally.Infastructure/bin/Debug/netcoreapp3.1/HelpLocally.Infastructure.pdb
+/Users/justynaluszczak/RiderProjects/HelpLocally/HelpLocally.Infastructure/bin/Debug/netcoreapp3.1/HelpLocally.Domain.dll
+/Users/justynaluszczak/RiderProjects/HelpLocally/HelpLocally.Infastructure/bin/Debug/netcoreapp3.1/HelpLocally.Domain.pdb
+/Users/justynaluszczak/RiderProjects/HelpLocally/HelpLocally.Infastructure/obj/Debug/netcoreapp3.1/HelpLocally.Infastructure.csprojAssemblyReference.cache
+/Users/justynaluszczak/RiderProjects/HelpLocally/HelpLocally.Infastructure/obj/Debug/netcoreapp3.1/HelpLocally.Infastructure.AssemblyInfoInputs.cache
+/Users/justynaluszczak/RiderProjects/HelpLocally/HelpLocally.Infastructure/obj/Debug/netcoreapp3.1/HelpLocally.Infastructure.AssemblyInfo.cs
+/Users/justynaluszczak/RiderProjects/HelpLocally/HelpLocally.Infastructure/obj/Debug/netcoreapp3.1/HelpLocally.Infastructure.csproj.CopyComplete
+/Users/justynaluszczak/RiderProjects/HelpLocally/HelpLocally.Infastructure/obj/Debug/netcoreapp3.1/HelpLocally.Infastructure.dll
+/Users/justynaluszczak/RiderProjects/HelpLocally/HelpLocally.Infastructure/obj/Debug/netcoreapp3.1/HelpLocally.Infastructure.pdb

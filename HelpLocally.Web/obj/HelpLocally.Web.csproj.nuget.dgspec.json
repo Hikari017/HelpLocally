@@ -1,0 +1,191 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/justynaluszczak/RiderProjects/HelpLocally/HelpLocally.Web/HelpLocally.Web.csproj": {}
+  },
+  "projects": {
+    "/Users/justynaluszczak/RiderProjects/HelpLocally/HelpLocally.Domain/HelpLocally.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/justynaluszczak/RiderProjects/HelpLocally/HelpLocally.Domain/HelpLocally.Domain.csproj",
+        "projectName": "HelpLocally.Domain",
+        "projectPath": "/Users/justynaluszczak/RiderProjects/HelpLocally/HelpLocally.Domain/HelpLocally.Domain.csproj",
+        "packagesPath": "/Users/justynaluszczak/.nuget/packages/",
+        "outputPath": "/Users/justynaluszczak/RiderProjects/HelpLocally/HelpLocally.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/justynaluszczak/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[5.0.0-preview.2.20160.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/justynaluszczak/RiderProjects/HelpLocally/HelpLocally.Infastructure/HelpLocally.Infastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/justynaluszczak/RiderProjects/HelpLocally/HelpLocally.Infastructure/HelpLocally.Infastructure.csproj",
+        "projectName": "HelpLocally.Infastructure",
+        "projectPath": "/Users/justynaluszczak/RiderProjects/HelpLocally/HelpLocally.Infastructure/HelpLocally.Infastructure.csproj",
+        "packagesPath": "/Users/justynaluszczak/.nuget/packages/",
+        "outputPath": "/Users/justynaluszczak/RiderProjects/HelpLocally/HelpLocally.Infastructure/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/justynaluszczak/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/justynaluszczak/RiderProjects/HelpLocally/HelpLocally.Domain/HelpLocally.Domain.csproj": {
+                "projectPath": "/Users/justynaluszczak/RiderProjects/HelpLocally/HelpLocally.Domain/HelpLocally.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[5.0.0-preview.2.20159.4, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[5.0.0-preview.2.20160.3, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[5.0.0-preview2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/justynaluszczak/RiderProjects/HelpLocally/HelpLocally.Web/HelpLocally.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/justynaluszczak/RiderProjects/HelpLocally/HelpLocally.Web/HelpLocally.Web.csproj",
+        "projectName": "HelpLocally.Web",
+        "projectPath": "/Users/justynaluszczak/RiderProjects/HelpLocally/HelpLocally.Web/HelpLocally.Web.csproj",
+        "packagesPath": "/Users/justynaluszczak/.nuget/packages/",
+        "outputPath": "/Users/justynaluszczak/RiderProjects/HelpLocally/HelpLocally.Web/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/justynaluszczak/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/justynaluszczak/RiderProjects/HelpLocally/HelpLocally.Infastructure/HelpLocally.Infastructure.csproj": {
+                "projectPath": "/Users/justynaluszczak/RiderProjects/HelpLocally/HelpLocally.Infastructure/HelpLocally.Infastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[5.0.0-preview.2.20159.4, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[5.0.0-preview.2.20160.3, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[5.0.0-preview2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

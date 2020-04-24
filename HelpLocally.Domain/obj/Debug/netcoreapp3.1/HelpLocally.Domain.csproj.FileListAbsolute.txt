@@ -1,0 +1,8 @@
+/Users/justynaluszczak/RiderProjects/HelpLocally/HelpLocally.Domain/bin/Debug/netcoreapp3.1/HelpLocally.Domain.deps.json
+/Users/justynaluszczak/RiderProjects/HelpLocally/HelpLocally.Domain/bin/Debug/netcoreapp3.1/HelpLocally.Domain.dll
+/Users/justynaluszczak/RiderProjects/HelpLocally/HelpLocally.Domain/bin/Debug/netcoreapp3.1/HelpLocally.Domain.pdb
+/Users/justynaluszczak/RiderProjects/HelpLocally/HelpLocally.Domain/obj/Debug/netcoreapp3.1/HelpLocally.Domain.csprojAssemblyReference.cache
+/Users/justynaluszczak/RiderProjects/HelpLocally/HelpLocally.Domain/obj/Debug/netcoreapp3.1/HelpLocally.Domain.AssemblyInfoInputs.cache
+/Users/justynaluszczak/RiderProjects/HelpLocally/HelpLocally.Domain/obj/Debug/netcoreapp3.1/HelpLocally.Domain.AssemblyInfo.cs
+/Users/justynaluszczak/RiderProjects/HelpLocally/HelpLocally.Domain/obj/Debug/netcoreapp3.1/HelpLocally.Domain.dll
+/Users/justynaluszczak/RiderProjects/HelpLocally/HelpLocally.Domain/obj/Debug/netcoreapp3.1/HelpLocally.Domain.pdb
